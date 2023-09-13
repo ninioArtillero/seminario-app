@@ -109,16 +109,15 @@ const fr = {
     'Ejemplo para relacionar carga y reproducción de archivos locales.',
   header_editor: 'Editor sencillo',
   header_acerca: 'acerca de nosotros',
-  desc_acerca: `El equipo de desarrollo e investigación de esta app forma parte del Seminario Permanente de Tecnología Musical
-      del Posgrado en Música UNAM. Sus integrantes tienen diferentes perfiles e intereses alrededor de la tecnología
-      musical lo que hace de este desarrollo un campo interdisciplinario para construir una tecnología de sonido
-      aplicada a la web.
+  desc_acerca: `L'équipe de développement et de recherche de cette application fait partie du
+    Séminaire permanent sur la technologie musicale du Postgraduate en musique de l'UNAM.
+    Ses membres ont des profils et des intérêts différents autour de la technologie musicale,
+    ce qui fait de ce développement un domaine interdisciplinaire pour construire la technologie du son appliquée au web.
 
-      La idea surge como respuesta a llevar un semestre dedicado al desrrollo de tecnologías basadas en la programación
-      de manera colectiva y guiada bajo un flujo de trabajo propio del desarrollo web.
+    L'idée naît en réponse au fait d'avoir un semestre dédié au développement de technologies basées
+    sur la programmation collective et guidées selon un flux de travail typique du développement Web.
 
-      De esta manera el quehacer artístico de sus integrantes encuentra una metodología de desarrollo que integra
-      preguntas que vienen de la práctica musical.`,
+    De cette manière, le travail artistique de ses membres trouve une méthodologie de développement qui intègre des questions issues de la pratique musicale.`,
   web_personal: 'Website'
 }
 
